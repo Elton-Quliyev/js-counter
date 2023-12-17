@@ -1,0 +1,21 @@
+body {
+  width: 80%;
+  margin: 100px;
+}
+
+.number {
+  font-size: 200px;
+  color: tomato;
+  line-height: 200px;
+  margin: 0;
+}
+
+#animate {
+  border: none;
+  padding: 4px 25px;
+  font-size: 16px;
+  color: white;
+  border-radius: 5px;
+  background-color: #000;
+  margin-bottom: 50px;
+}/*# sourceMappingURL=home3.css.map */
